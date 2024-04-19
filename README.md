@@ -1,2 +1,2 @@
 # WelloHorld
-∀ x ∈ World, x -> Hello(x)
+∀ x ∈ World, x -> Hello
