@@ -1,2 +1,2 @@
 # WelloHorld
-**∀ x ∈ World, x -> Hello**
+**∀ x ∈ World, x -> Hello(x)**
